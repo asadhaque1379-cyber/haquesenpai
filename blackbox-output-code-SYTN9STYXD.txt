@@ -1,0 +1,5 @@
+anime-stickers/
+├── index.html
+├── styles.css
+├── script.js
+└── stickers/ (folder for your sticker images)
